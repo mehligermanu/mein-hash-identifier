@@ -13,7 +13,7 @@ Ideal fürs Lernen, CTFs, Forensik-First-Pass und Portfolio.
 
 ## Voraussetzungen
 
-- Python 3.9+ (getestet mit 3.x)
+- Python 3.9+ (getestet mit 3.14.8)
 
 ## Nutzung
 
